@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/icon-2026-7.png" alt="铃夜开发组" width="240">
+  <img src="../static/icon-2026-7.png" alt="铃夜开发组" width="240">
 </p>
 <p align="center"><sub>铃夜开发组</sub></p>
 
